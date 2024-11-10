@@ -1,5 +1,7 @@
 from flask import Flask, request
-from starter_code import starter_code
+from starter_code import model
+
+# pip install scikit-learn
 
 # Please do NOT modify this file
 # Modifying this file may cause your submission to not be graded
@@ -15,7 +17,7 @@ def challengeSetup():
 	previousGuesses = req_data['previousGuesses']
 	error = req_data['error']
 
-	guess, endTurn = starter_code.model(words, strikes, isOneAway, correctGroups, previousGuesses, error)
+	guess, endTurn = model(words, strikes, isOneAway, correctGroups, previousGuesses, error)
 
 	return {"guess": guess, "endTurn": endTurn}
 
