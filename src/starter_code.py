@@ -3,29 +3,34 @@ import ast
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.cluster import KMeans
-from gensim.models import KeyedVectors
+from gensim.models import Word2Vec
 import time
 import random
 import traceback
 import pickle
-import kagglehub
+import os
 
-# Download latest version
-path = kagglehub.dataset_download("leadbest/googlenewsvectorsnegative300")
+model_path = 'model/model.dat'
 
-model_path = path + "/GoogleNews-vectors-negative300.bin"
-
-# Load Pre-trained Gensim Word2Vec model globally to avoid repeated loading
+# Load Gensim Word2Vec model globally to avoid repeated loading
 try:
-    print('Loading pre-trained Word2Vec model from file...')
-    gnews = KeyedVectors.load_word2vec_format(model_path, binary=True)
-    print('Model loaded successfully.')
+    if not os.path.exists('model'):
+        os.makedirs('model')
+    with open(model_path, 'rb') as f:
+        print('Loading Word2Vec model from file...')
+        gnews = pickle.load(f)
+        print('Model loaded successfully.')
 except FileNotFoundError:
-    print('Model not found. Please ensure the model path is correct.')
-    gnews = None
+    print('Downloading Word2Vec model...')
+    from gensim.downloader import load
+    gnews = load('word2vec-google-news-300')
+    with open(model_path, 'wb') as f:
+        pickle.dump(gnews, f)
+        print('Model downloaded and saved successfully.')
 except Exception as e:
     print(f"Error loading model: {e}")
     gnews = None
+
 
 def get_word_embeddings(words):
     """Convert words to vector embeddings using Gensim, filtering out OOV words."""
@@ -42,6 +47,7 @@ def get_word_embeddings(words):
             valid_words.append(word)
     
     return np.array(embeddings), valid_words
+
 
 def cluster_words(word_embeddings, filtered_words, previousGuesses):
     """Cluster words using KMeans and filter valid clusters."""
@@ -67,6 +73,7 @@ def cluster_words(word_embeddings, filtered_words, previousGuesses):
     print("Generated cluster:", cluster_list)
     return cluster_list
 
+
 def similarity_fallback(word_embeddings, filtered_words):
     """Fallback logic using similarity-based selection."""
     print("No valid clusters found, using similarity-based fallback...")
@@ -75,6 +82,7 @@ def similarity_fallback(word_embeddings, filtered_words):
     sorted_indices = np.argsort(avg_similarities)[::-1]
     top_indices = sorted_indices[:4]
     return [filtered_words[i] for i in top_indices]
+
 
 def adjust_for_one_away(correctGroups, filtered_words, guess, previousGuesses):
     """Adjust the guess if the 'One Away' condition is detected."""
@@ -105,6 +113,7 @@ def adjust_for_one_away(correctGroups, filtered_words, guess, previousGuesses):
         print("Adjusted guess for one away:", new_guess)
         return new_guess
     return guess
+
 
 def model(words, strikes, isOneAway, correctGroups, previousGuesses, error):
     start_time = time.time()
