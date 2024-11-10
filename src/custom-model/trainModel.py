@@ -48,7 +48,7 @@ model = Word2Vec(
 )
 
 # Save the trained model
-model.save("nyt_word2vec.model")
+model.save("model/nyt_word2vec.model")
 print("Word2Vec model training complete and saved to nyt_word2vec.model.")
 
 # Visualization of the word embeddings using PCA
