@@ -1,0 +1,879 @@
+What Trump 2.0 Means for Tech + A.I. Made Me Basic + HatGPT!
+A shake-up is coming for Silicon Valley.
+As of this week, we have a new president-elect. We discuss how the incoming administration’s approach to technology will affect Elon Musk, a TikTok ban, Big Tech’s antitrust challenges and the speed of A.I. progress. Then, Kashmir Hill, a technology reporter for The Times, joins to discuss her weeklong experiment of letting A.I. make every decision in her life. And finally, we play a round of election-free HatGPT!
+
+Ride-Hailing Drivers in Massachusetts Win Right to Unionize
+A state ballot measure was the first of its kind in the United States, but labor advocates worry it could lock Uber and Lyft drivers out of full-time employment status.
+Ride-hailing drivers in Massachusetts won the right to unionize on Wednesday through a statewide ballot initiative, a first-of-its-kind victory that could set a precedent for gig worker legislation across the country.
+
+Elon Musk Helped Elect Trump. What Does He Expect in Return?
+The world’s richest man gave his money and time in campaigning for the president-elect and now is putting in his requests for a friendlier regulatory environment.
+Even before Donald J. Trump was re-elected, his best-known backer, Elon Musk, had come to him with a request for his presidential transition.
+
+What a Trump Victory Means for Tech
+Another Trump presidency will be good for crypto and Elon Musk, but every big tech company may not benefit from a more hands-off approach to antitrust.
+Donald Trump has won the 2024 presidential election. Follow live updates here.
+
+Billionaire Game Theory + We Are Not Ready for A.G.I. + Election Betting Markets Get Weird
+“If I had $1 billion, how would I try to influence the results of this election?”
+Last week, Jeff Bezos canceled the Washington Post editorial board’s plan to endorse Kamala Harris. Are tech billionaires hedging their bets in case Donald Trump wins? Then, Miles Brundage, a former OpenAI senior adviser on artificial general intelligence readiness, stops by to tell us how his old company is doing when it comes to being ready for superintelligence, and whether we should all keep saving for retirement. And finally, David Yaffe-Bellany, a Times technology reporter, joins us to explore the rise of Polymarket, a crypto-powered betting platform, and discuss whether prediction markets can tell us who is going to win the election.
+
+Apple’s Quarterly Profit Down Because of Tax Payment in Europe
+Sales for the iPhone maker were up 6 percent to to $94.93 billion. But a $14.4 billion tax bill cut profits that would have topped expectations.
+Over the past month, Apple blanketed television with commercials about how its newest iPhone had exciting artificial intelligence capabilities even though the company was still working on many of the features it was pitching.
+
+Jeff Bezos, Elon Musk and the Billions of Ways to Influence an Election
+The world’s richest men have their own rocket fleets, their own media and their own schemes to succeed with Donald J. Trump.
+Entrepreneurs become legends when they make big bets on technology that pay off in a huge and dramatic way. Elon Musk is now applying that all-or-nothing philosophy to a presidential election, tying his reputation and perhaps his future to a win by Donald J. Trump.
+
+TSMC Chips Ended Up in Devices Made by China’s Huawei Despite U.S. Controls
+The U.S. government has tried to keep Chinese companies from obtaining certain advanced technologies, but concerns have been growing that some products may have been routed to Huawei.
+The U.S. government has spent years weaving a web of controls to prevent Chinese companies from being able to buy or make cutting-edge computer chips.
+
+The Elon-ction + Can A.I. Be Blamed for a Teen’s Suicide?
+The 2024 election has a new main character.
+Note: This episode contains mentions of suicide.
+
+Former OpenAI Researcher Says the Company Broke Copyright Law
+Suchir Balaji helped gather and organize the enormous amounts of internet data used to train the startup’s ChatGPT chatbot.
+Suchir Balaji spent nearly four years as an artificial intelligence researcher at OpenAI. Among other projects, he helped gather and organize the enormous amounts of internet data the company used to build its online chatbot, ChatGPT.
+
+A Flood of A.I. Slop + Searching for Satoshi + the Hot Mess Express Returns
+There’s just so much slop that at a certain point it makes the internet basically useless.
+This week, in the wake of recent natural disasters, we dig into the rise of A.I.-generated slop that’s polluting the internet and disrupting rescue efforts. Then we talk with the investigative filmmaker Cullen Hoback about his new documentary on the history of Bitcoin and about why, after so many others have failed, he thinks he has found the real Satoshi Nakamoto. And finally, we hear the train whistle approaching, and that can only mean one thing: It’s once again time to board the Hot Mess Express.
+
+Google Triumphs on the Nobel Stage as Tough Antitrust Fight Looms
+Two of the company’s A.I. researchers shared the Nobel Prize in Chemistry, just hours after the Justice Department started spelling out plans that could lead to its break up.
+Google, thanks to the tens of billions of dollars it makes every year from its online search business, has long pursued giant research projects that could one day change the world.
+
+Can California Regulate A.I.? + Silicon Valley’s Super Babies + System Update!
+“In the United States, we have 50 laboratories of democracy and they’re called states.”
+On Sunday, Gov. Gavin Newsom of California vetoed Senate Bill 1047, an A.I. safety bill that would have curtailed the growth of the technology. What received a lot less attention were the 18 other important A.I. bills he signed into law over the past month. We walk through what is in them and what they mean for the rest of the country. Then, The Information’s Julia Black joins to discuss the baby craze that’s sweeping Silicon Valley, including investment in some wild new fertility technologies. And finally, it’s time for a system update! We get into OpenAI’s massive fund-raising deal and the senator who hopped on a call with a “deepfake” former Ukrainian official.
+
+Meta’s Race for Your Face, Google’s Hit A.I. Notebook and HatGPT
+Building great A.R. glasses is the hardest problem in consumer technology.
+This week, Casey reports back from a wild day at Meta Connect, discussing what’s new with Meta’s efforts in artificial intelligence, virtual reality headsets and the Holy Grail — augmented reality glasses. Then, Steven Johnson, a writer and editorial director at Google Labs, stops by to talk about the company’s new hit NotebookLM, which uses A.I. to turn even boring PDFs, such as user manuals and Kevin’s bank records, into chatty, disturbingly good podcasts. Finally, so much happened in tech news this week that we reached for the bucket hat in the latest installment of HatGPT!
+
+OpenAI’s Reasoning Machine, Instagram Teen Changes and Amazon R.T.O. Drama
+“They should have just called it Strawberry. At least that’s delicious.”
+Last week, OpenAI released a preview of its hotly anticipated new model, o1. We discuss what it has excelled at and how it could accelerate the timeline for building superintelligence. Then, we explain why Meta is making teenagers’ Instagram accounts private by default. And, finally, we chat with the New York Times reporter Karen Weise about why Amazon is forcing its corporate employees to go back to working in the office five days a week and whether other companies will follow suit.
+
+Trump Rolls Out His New Cryptocurrency Business
+In a livestream, Donald Trump formally introduced World Liberty Financial, a crypto venture led by two digital currency entrepreneurs with little experience running high-profile businesses.
+A day after an apparent assassination attempt against former President Donald J. Trump, he appeared on a livestream on Monday to champion his latest business venture: cryptocurrencies.
+
+Judges Show Some Skepticism of TikTok’s Fight Against Potential U.S. Ban
+TikTok on Monday pushed back against a law that would force the popular video app to sell to a non-Chinese owner or be banned, in what is shaping up to be a landmark case.
+A panel of federal judges on Monday made pointed remarks that called TikTok’s legal arguments into question, in a landmark case that could determine whether the Chinese-owned video app survives in the country.
+
+The Chinese Chipmaker at the Heart of the U.S.-China Tech War
+Efforts by the Beijing-backed Semiconductor Manufacturing International Corporation, or SMIC, to break through innovation barriers have landed it in a geopolitical tech battle.
+In a sprawling factory in eastern Shanghai, where marshy plains have long since been converted into industrial parks, China’s most advanced chipmaker has been hard at work testing the limits of U.S. authority.
+
+Will TikTok Be Banned in January? That Question Is Headed to Court.
+TikTok will be in federal court on Monday, aiming to block a new law that will ban the popular video app in the United States early next year.
+TikTok could be banned in the United States in mere months. Its lawyers head to court on Monday to fight that outcome, the latest stage in an ongoing clash between the short-form video app and the American government.
+
+Do You Need a New iPhone? + Yuval Noah Harari’s A.I. Fears + Hard Fork Crimes Division
+Welcome to our 100th episode!
+Apple unveiled its latest gadgets at its big September event on Monday. We discuss the most interesting new features — including AirPods that can function as hearing aids and Apple Watch software that can help detect sleep apnea — and offer our advice on when to buy a new iPhone. Then, the best-selling author Yuval Noah Harari joins us to discuss his new book and his biggest fears about A.I. And finally, we crack open some criminal cases in a new segment we’re calling the Hard Fork Crimes Division. We’ll explain how one man made $10 million by manipulating music streaming services and how online instructions for building a 3D-printed gun have ended up in the hands of criminals around the world.
+
+Inside Elon Musk’s Mushrooming Security Apparatus
+As threats to his personal safety have become graver, the world’s richest man has barricaded himself behind a phalanx of bodyguards that operates like a mini-Secret Service.
+The day before Elon Musk spoke at a celebration for Tesla’s futuristic Cybertruck pickup in November, a Florida man, Paul Overeem, was arrested near the company’s Austin, Texas, factory and accused by the authorities of planning a “mass casualty event” there.
+
+First Private Spacewalk in SpaceX Capsule Achieves New Milestone
+Jared Isaacman, the billionaire leading the Polaris Dawn mission, and Sarah Gillis, a SpaceX engineer, exited and re-entered their spacecraft in a test of commercial space technologies.
+Two private astronauts moved outside their spacecraft early Thursday morning, conducting the first-ever commercial spacewalk.
+
+Polaris Dawn Astronauts Reach Record High Orbit Above Earth
+After launching early on Tuesday, the billionaire Jared Isaacman and his crew traveled to altitudes not visited by any astronaut since the Apollo moon missions of the 1960s and ’70s.
+Four private astronauts aboard an ambitious space mission led by a billionaire entrepreneur traveled farther from Earth on Tuesday than any other human being in more than half a century.
+
+Starliner’s Troubles Are Latest Setback for Boeing’s Space Business
+The capsule, which returned without astronauts, and other space programs at Boeing have suffered many delays and cost overruns.
+Space programs are a small part of Boeing’s business, which is dominated by sales of commercial and military planes and equipment. But the work is a point of pride: Boeing has long been involved in spaceflight, going back to the first mission to take an American to space.
+
+How Elon Musk Is Influencing Donald Trump
+Their fast-evolving political friendship has become a potential minefield, as Mr. Musk’s sprawling businesses may present conflicts of interest if Mr. Trump is elected in November.
+In a live-streamed conversation on X with former President Donald J. Trump last month, Elon Musk raised the idea of a “government efficiency commission.” Such a council could ensure that taxpayers’ money was “spent in a good way,” Mr. Musk said during their more-than-two-hour talk.
+
+X Gets a Brazilian Ax + Founder Mode + Listeners Respond on School Phone Bans
+“This is not a normal legal dispute.”
+Over the weekend, X was banned in Brazil. We talk with The New York Times’s Brazil bureau chief, Jack Nicas, about how Brazilians are reacting, whether its owner, Elon Musk, has made a business miscalculation and what this means for free speech around the world. Then, we’re going “founder mode.” We explore why an essay about start-up founders reclaiming their authority went viral and what that tells us about how Silicon Valley thinks about power. And finally, we hear from listeners. Teachers and students left us voice messages describing how phone bans in schools are transforming their lives.
+
+The Telegram Problem + Gov. Kathy Hochul on School Phone Bans + Kevin’s A.I. Reputation Rehab
+Tech platforms and governments are in a standoff.
+Telegram’s founder, Pavel Durov, was arrested in France and charged with several crimes connected to his operation of the platform. We’ll tell you what the charges against him mean for the internet. Then Gov. Kathy Hochul, Democrat of New York, joins us to discuss why she wants to ban phones statewide in public schools. And finally, Kevin has been using secret codes to try to change what A.I. chatbots think of him. We get to the bottom of whether it is possible to manipulate A.I. outputs.
+
+Uber Fined $324 Million by Dutch Watchdog Over Driver Data Protection
+The authorities in the Netherlands said the ride-hailing company had violated European data protection laws when it sent sensitive information to the United States.
+Uber faces a fine of 290 million euros, or more than $324 million, over a violation of European Union rules that protect data privacy, a Dutch agency said Monday.
+
+For His Second Trip to Space, Billionaire Has Grander, Riskier Aspirations
+Jared Isaacman is leading three other privately trained astronauts on a SpaceX vehicle for Polaris Dawn, a mission that will include a daring spacewalk.
+Three years ago, a billionaire entrepreneur named Jared Isaacman made a groundbreaking trip to space. That spaceflight, which Mr. Isaacman called Inspiration4, was the first to orbit the Earth without a professional astronaut aboard.
+
+Stock Market Rallies to Its Best Week in Over a Year
+President-elect Donald Trump’s win, coupled with a quarter-point interest rate cut from the Federal Reserve, pushed major stock indexes into record territory.
+Stocks rose on Friday, capping the market’s best week in over a year and extending a rally that came as President-elect Donald J. Trump’s decisive election win put an end to months of uncertainty for investors.
+
+TSMC Stops Advanced Chip Shipments to Chinese Customers
+The Taiwanese chip giant will halt shipments to Chinese companies after some of its most advanced chips ended up with Huawei.
+Taiwan Semiconductor Manufacturing Company, the maker of most of the world’s cutting-edge computer chips, discovered last month that one of its chips had ended up precisely where policymakers in the United States did not want it: in a processor made by Huawei.
+
+Canada Sends Mixed Signals With TikTok Shutdown Order
+The industry minister closed TikTok’s offices in Toronto and Vancouver over security concerns, but Canadians can still download and use the app.
+This week Canada shut down TikTok — but not in the way that some people had been expecting.
+
+Companies Brace for the Return of Trump’s Old Trade Gripes
+The president-elect is again calling out companies by name in his campaign against what he sees as other countries’ unfair practices.
+When Donald J. Trump repeatedly singled out the Japanese construction equipment maker Komatsu during his 2016 presidential campaign, employees at the company were taken aback.
+
+Truth Social Stock Moves Higher on Trump Election Victory
+Shares in Trump Media were among the most actively traded in the United States after the election was called.
+Shares of Donald J. Trump’s social media company rose on Wednesday after the former president clinched another term in office but not nearly as much as many shareholders might have hoped.
+
+Canada Shuts TikTok’s Offices Over National Security Risks
+The order, which will allow people to still use the app, cited concerns about TikTok’s owner, the Chinese tech giant ByteDance.
+The Canadian government on Wednesday directed the video app TikTok, which is owned by a Chinese tech giant, to close its offices in the country because of national security risks.
+
+Truth Social May Be the Company With the Most at Stake This Election
+No stock is more directly linked to the outcome than Trump Media & Technology Group, the parent company of Truth Social.
+The stock price of former President Donald J. Trump’s social media company has swung up and down over the past few weeks, but it may be in for an even wilder ride.
+
+In a Perfect World, We’d Eliminate Expense Reports. We’re Getting Closer.
+We hate them. The companies that build expense management software know that we hate them. They would like things to be different.
+Once you file a few expense reports at work, a couple of things become clear.
+
+But He Digresses: Trump’s Strangest Detours Down the Stretch
+In the campaign’s homestretch, whether because of fatigue or something else entirely, Donald Trump seems to be indulging in surreal, sometimes vulgar, verbal detours.
+Donald J. Trump has long sprinkled his speeches with baffling digressions — weighing the relative merits of death by electrocution or shark attack, or comparing immigrants to the “late, great Hannibal Lecter” — sometimes even turning them into recurring bits.
+
+How Four Posts on Instagram Destroyed Her Life
+On Oct. 7, an Israeli college student opened her phone. What she did next landed her in prison.
+“The police are looking for you,” her father said.
+
+New York State Chosen as National Center for Chip Manufacturing Research
+The Biden administration will place a hub of a newly created national semiconductor technology center in upstate New York.
+The Biden administration is set to announce on Thursday that it will invest an estimated $825 million in a new federally funded semiconductor research facility in upstate New York.
+
+Trump Media Stock Jumps Again as Traders Bet on Election
+Shares of the Truth Social parent company continue to soar, pushing the market value of the firm above $10 billion.
+Shares of former President Donald J. Trump’s social media company are soaring on the expectation he will win next week’s presidential election.
+
+The Musk Campaign Steps Up
+The tech mogul is pushing even harder in the final days of the presidential race to get Donald Trump re-elected, with plenty at stake for his businesses.
+Less than a week out from Election Day, both campaigns and their supporters are pulling out all of the stops. Few are doing as much as Elon Musk.
+
+How TikTok Saved Its E-Commerce Business in Indonesia
+When the government effectively forced TikTok to shut down its Shop feature, the company quickly struck an unusual deal with a local company to bring it back.
+A year ago, TikTok’s e-commerce business in Indonesia was thriving. With its viral videos, TikTok had become a worldwide phenomenon, and it was translating its influence into a powerful new revenue stream by letting users buy and sell things while its videos played.
+
+Here is the letter from Sam Bankman-Fried’s parents to Judge Kaplan.
+Over the past nine months, the parents of Mr. Bankman-Fried, Ms. Ellison and Mr. Singh have written letters to Lewis A. Kaplan, the judge overseeing the FTX case, pleading for leniency for their children. They described the emotional toll of FTX’s...
+Over the past nine months, the parents of Mr. Bankman-Fried, Ms. Ellison and Mr. Singh have written letters to Lewis A. Kaplan, the judge overseeing the FTX case, pleading for leniency for their children. They described the emotional toll of FTX’s collapse, recounting wrenching conversations and endless stress.
+
+Delivering a Package in a Country With 17,000 Islands
+When TikTok needed an e-commerce partner in Indonesia, Tokopedia was an obvious candidate for the vast network of warehouses, motorbikes and “sprinters” it uses.
+Iksan knows the roads around his hometown on the Indonesian island of Sumatra like the back of his hand. He runs a package sorting center from his garage, a small but essential piece of a sprawling network delivering goods bought on Tokopedia, the country’s biggest homegrown e-commerce company.
+
+Woman Charged With Hate Crime in Pepper-Spraying of Muslim Uber Driver
+Prosecutors said the woman, Jennifer Guilbeault, attacked Shohel Mahmud without provocation after he began to pray in Arabic while stopped at a traffic light. She has pleaded not guilty.
+Shohel Mahmud had no obvious reason to worry when he picked up two young women who had ordered an Uber around midnight on July 31.
+
+It Shouldn’t Be This Easy to Sign Away Your Right to a Trial
+Arbitration caught on for good reason, but it has drifted too far from its original purpose.
+A century ago, arbitration was a hot item. President Calvin Coolidge signed the Federal Arbitration Act on Feb. 12, 1925. It recognized private dispute resolution as a valid alternative to trials, and the arbitrator’s decisions in such disputes as binding, albeit subject to limited judicial review. 
+
+The Rebellious Scientist Who Made Kamala Harris
+The presidential candidate’s mother, Shyamala Gopalan Harris, was a breast cancer researcher whose egalitarian politics often bucked a patriarchal lab culture.
+On her first day of work, the young bioengineering major climbed down the basement steps of a cancer laboratory in Berkeley, Calif., and caught sight of someone summarily beheading a mouse.
+
+What Happened to the A.I. Election? + ChatGPT for Mayor + The Productivity Tools We’re Using
+“It’s happening, but people don’t want it public.”
+This week, we discuss why so few campaigns seem to be experimenting with A.I. The Times’s Sheera Frenkel joins us with examples of the many different artificial intelligence products that have been turned down by campaigns in this election cycle, from A.I.-generated endorsements from long-dead historical figures to a synthetic version of Donald Trump. Then, we interview the Wyoming man who ran for mayor on the promise that he would exclusively use a customized ChatGPT bot to run the city. And finally, it’s time for a tech check. We run down the apps we’re using to become more productive.
+
+That 800-Year-Old Corpse in the Well? Early Biological Warfare.
+Archaeologists in Norway have confirmed that an ancient set of human remains known as the Well Man were intended to make the locals unwell.
+In the dying days of the 12th century, with Norway in the grip of civil wars, the Baglers, a faction aligned with the archbishop, laid siege to Sverresborg, the castle stronghold of King Sverre Sigurdsson. The monarch was away, so the besiegers pillaged the castle, burned down houses and poisoned the water supply by heaving the corpse of one of the king’s men headfirst down the well and filling the shaft with stones.
+
+Where There’s Joy in a Terror Bird
+In Colombia, a fossil-collecting rancher has found a giant, flightless killer from 13 million years ago — and a missing link to the region’s evolutionary history.
+César Perdomo’s small paleontological museum, La Tormenta, is a work in progress. A bare cement structure built on a windswept platform in the Tatacoa Desert, it offers a panoramic view of shallow, craggy canyons carved from soft mudstone.
+
+Exhale Through the Gift Shop
+Museums are adding scents as another tool for communicating information about science and other subjects in their exhibits.
+Does dark matter smell like pepper? Just how stinky was the breath of Tyrannosaurus rex? What was the fragrance of an extinct flower? And what scents might greet us on the moon or Mars?
+
+1 in 4 Child Deaths After E.R. Visits Are Preventable, Study Finds
+If every emergency room in the United States were fully prepared to treat children, thousands of lives would be saved and the cost would be $11.84 or less per child, researchers found.
+The morning after Phyllis Rabinowitz brought her newborn daughter home from the hospital, she knew something was terribly wrong. The baby, Rebecca, had thick mucus, trouble breathing and lethargy unlike anything Ms. Rabinowitz had seen in her first child.
+
+Diving to Drink a 19th-Century Shipwreck’s Treasure
+A team recently dived deep beneath Lake Huron hoping to harvest grain that may one day be distilled into whiskey with a flavor forgotten to history.
+The wreck of the James R. Bentley, a 170-foot-long schooner, has sat 165 feet beneath the surface of Lake Huron since 1878. Within its hold was an unlikely treasure.
+
+Can Axions Save the Universe?
+The hunt for dark matter is shifting from particles to waves named after a laundry detergent.
+The search is on for some of the flimsiest lumps of matter and energy ever dreamed up by physicists. They are darker than night, barely more substantial than a thought, and named after a laundry detergent. But axions, as they are called, could constitute most of the matter in our universe, forming the unseen skeletons of galaxies and chains of light that adorn the skies of astronomers. Confirmation of their existence would upset some of the deepest theories of nature.
+
+Being Sugar-Deprived Had Major Effects on These Children’s Health
+British data shows that children conceived and born during a period of sugar rationing were less likely to develop diabetes or high blood pressure later in life.
+People who were restricted to limited amounts of sugar in the first few years of life were less likely to develop diabetes and high blood pressure decades later, a new study has found.
+
+How Public Health Could Be Recast in a Second Trump Term
+Breaking up the C.D.C., moving funds from the N.I.H. — conservatives have floated changes should Mr. Trump regain office.
+The Covid pandemic dominated the last years of Donald Trump’s presidency, and the discontent it caused most likely contributed to his loss in 2020. But on the campaign trail this year, Mr. Trump rarely talks in depth about public health, dwelling instead on immigration, the economy and his grievances.
+
+Two Black Holes Are Giving the Cosmos a Fright
+The ghosts of stars are up to their usual mischief.
+Just in time for Halloween, two black holes are in the news.
+
+Fossil Reveals Oldest Known Tadpole That Grew to the Size of a Hot Dog
+A 161 million-year-old fossil, linked to a line of extinct frog-like amphibians, is the oldest tadpole ever found.
+The metamorphosis of a frog from baby to adult is one of nature’s most remarkable transformations. Tadpoles are born with oversized heads and long tails. Soon the tails vanish, swapped out for tiny legs and a more frog-like shape.
+
+How Many Continents Are There? You May Not Like the Answers.
+Recent earth science developments suggest that how we count our planet’s largest land masses is less clear than we learned in school.
+Your kids may have come home from school singing this infectious ditty, or another like it. But are there really seven continents?
+
+Was Stone Age Scandinavia Struck by Plague?
+New research by geneticists hints at the deadly work of Yersinia pestis 5,000 years ago.
+At the end of the Stone Age, some 5,300 years ago, the populations of Scandinavia and northwest Europe plummeted, and farming communities evaporated. “People stopped building megaliths, like Stonehenge,” said Frederik Seersholm, a geneticist at the University of Copenhagen. “Settlements were abandoned. Everyone vanished.”
+
+Can John Green Make You Care About Tuberculosis?
+With a forthcoming nonfiction book and an online army of Nerdfighters, the young-adult author aims to eliminate an entirely curable global scourge.
+You can roughly guess a person’s age based on how they know John Green. Older millennials met Mr. Green and his brother, Hank, on YouTube in the late 2000s, when they were performing songs about Harry Potter and cultivating a fan base of “Nerdfighters.” Younger millennials probably know him as the author of “The Fault in Our Stars,” “Looking for Alaska” and other best-selling young-adult novels that feature complex and frequently tragic teenage characters. Generation Z-ers herald Mr. Green as a beloved professor: Since 2012, he has hosted video lessons on history, literature and religion for an educational web series called “Crash Course.”
+
+This Toad Is So Tiny That They Call It a Flea
+A “toadlet” in Brazil is the second-smallest vertebrate known to exist on the planet.
+At 6.95 tiny millimeters in length, this creature could fit on your fingertip. It is smaller than several ant species. While it sounds like a cricket, it’s not an insect: It’s an extremely small frog.
+
+Why Is Harris So Passionate About Abortion Rights? Her Past Work Holds Clues.
+For a politician who has been criticized for shifting positions on some issues, this is an area where she has shown unwavering conviction.
+In April 2004, Kamala Harris was less than four months into her new job as San Francisco’s district attorney, a high-profile position that thrust her into the local headlines, when she flew to Washington, D.C., to become one face in a sea of more than a million.
+
+What Ants and Orcas Can Teach Us About Death
+A philosopher journeys into the world of comparative thanatology, which explores how animals of all kinds respond to death and dying.
+In the summer of 2018, off the coast of British Columbia, an orca named Tahlequah gave birth. When the calf died after just half an hour, Tahlequah refused to let go. For more than two weeks, she carried her calf’s body around, often balancing it on her nose as she swam.
+
+The Rebellious Scientist Who Made Kamala Harris
+The presidential candidate’s mother, Shyamala Gopalan Harris, was a breast cancer researcher whose egalitarian politics often bucked a patriarchal lab culture.
+On her first day of work, the young bioengineering major climbed down the basement steps of a cancer laboratory in Berkeley, Calif., and caught sight of someone summarily beheading a mouse.
+
+A Skeleton Bank of Understudied Species
+With a new database of medical images, zoo and wildlife vets can finally see what healthy uncommon animals, from rhinos and tamarins to pangolins and sea stars, should look like on the inside.
+Woe betide the rhinoceros radiologist.
+
+The Early Bird Got the Cicada, Then an Evolutionary Air War Started
+Fossils reveal that prehistoric cicadas’ wings evolved to help them evade hungry predators with feathers and beaks, scientists say.
+Today, few critters are as abundant as cicadas. Thousands of different cicada species are found throughout the world, and some even periodically emerge by the trillions.
+
+NASA Astronaut Leaves Hospital After ‘Medical Issue’ That Followed Return From Space
+Three NASA astronauts and a fourth from the Russian space agency returned to Earth from the International Space Station on Friday morning in a SpaceX capsule.
+A NASA astronaut experiencing a “medical issue” was hospitalized early Friday after returning from the International Space Station, the space agency said Friday. Citing privacy, NASA did not identify the astronaut or provide details about the medical issue.
+
+Why Heat Waves of the Future May Be Even Deadlier Than Feared
+The body’s cooling defenses fail at lower “wet bulb” temperatures than scientists had estimated.
+Last month was the second-hottest September ever recorded; it came after the world’s warmest summer ever, in a year that is on track to be the most searing in recorded history.
+
+Wildfires in the West Aren’t Just Getting Bigger. They’re Faster, Too.
+In recent decades, fast-growing blazes were responsible for an outsize share of fire-related devastation, scientists found using satellite data.
+Wildfires aren’t just tearing through larger swaths of the American West. They’re spreading more quickly, too.
+
+82 American Nobel Prize Winners Endorse Kamala Harris
+The group of scientists and economists said they feared a Trump presidency would impede progress in science and technology and in fighting climate change.
+More than 80 American Nobel Prize winners in physics, chemistry, medicine and economics have signed an open letter endorsing Vice President Kamala Harris for president.
+
+Grizzly Bear 399, Mother of 18 Cubs, Is Killed by Driver
+She lived to 28, roaming the Yellowstone area with her many offspring while becoming a favorite among both residents and visitors.
+Grizzly bear 399, one of the best known bears in the world and the oldest recorded reproducing female grizzly in the greater Yellowstone area, was struck by a car and died Tuesday south of Jackson, Wyo. She was 28.
+
+As Bird Flu Spreads, Additional Human Infection Is Reported in Missouri
+Two people sharing a home caught the virus without known exposure to animals. More than 30 human cases have been reported in the United States.
+A Missouri resident who shared a home with a patient hospitalized with bird flu in August was also infected with the virus, federal officials reported on Thursday.
+
+Why Democracy Lives and Dies by Math
+A documentary filmmaker and a mathematician discuss our fear of numbers and its civic costs.
+“Math is power” is the tag line of a new documentary, “Counted Out,” currently making the rounds at festivals and community screenings. (It will have a limited theatrical release next year.) The film explores the intersection of mathematics, civil rights and democracy. And it delves into how an understanding of math, or lack thereof, affects society’s ability to deal with the most pressing challenges and crises — health care, climate, misinformation, elections.
+
+A Feathered Murder Mystery at 10,000 Feet
+Scientists say they have observed one of the highest-altitude acts of bird predation ever recorded.
+In January 2023, scientists attached tracking devices to eight grey plovers on the coast of the Wadden Sea off the Netherlands. The hope was to learn more about the birds’ yearly migration to breeding grounds in the Arctic. And all was going well until late May, when one of the birds started acting strangely.
+
+Ancient Cities Unearthed in Mountains of Central Asia
+The discovery suggests that trade routes along the Silk Road were far more complex than previously understood.
+Michael Frachetti was on an archaeological dig high in the mountains of southeastern Uzbekistan in 2015 when a forestry official approached him. “You know, I’ve seen some of those kinds of ceramics in my backyard,” the official said, referring to the artifacts emerging from the dirt. “Come see.”
+
+New Stroke Recommendations Call Out Risks Unique to Women
+In a first, the guidelines link poor pregnancy outcomes to stroke and call on doctors to exercise greater vigilance.
+New guidelines for preventing strokes spell out for the first time the risks faced by women, noting that pre-term births and conditions like endometriosis and early menopause can raise the risk.
+
+Russia’s Warming Arctic Is a Climate Threat. War Has Shut Scientists Out of It.
+Climate science has been stymied as Russia continues its war in Ukraine. The stalled work threatens to leave the West without a clear picture of how fast the Earth is heating up.
+Western scientists studying the Arctic are increasingly lost in the hunt for data, the result of the cutoff in relations with Russia.
+
+Ducks Do More Than You Might Think to Help Save the Planet
+At the Bruce Museum, an exhibition of duck stamp art tells a 90-year-old story about how paintings can contribute to land preservation.
+You don’t have to be a conservationist or a hunter to marvel at the portraits at the Bruce Museum in Greenwich, Conn. Each one is of a duck. Some show ducks flying — mergansers, pintails, mallards and eiders. Some show ducks swimming. One shows a dog with a duck in its mouth.
+
+Bruce Ames, 95, Dies; Biochemist Discovered Test for Toxic Chemicals
+The Ames Test offered a fast and inexpensive way to identify carcinogens, leading to the banning of chemicals linked to cancer and birth defects.
+Bruce Nathan Ames, a biochemist who discovered a revolutionary method of detecting potential carcinogens, paving the way for the banning of many commonly used chemicals, died on Oct. 5 in Berkeley, Calif. He was 95.
+
+Brazilian Fossil Hints at Older Origin for All Dinosaurs
+The discovery may push back the emergence of the reptiles that once ruled the Earth, and clarify how dinosaurs like the Triceratops and Stegosaurus emerged.
+A dog-size reptile slipped through fern-choked forests 237 million years ago in what is today Paraíso do Sul, Brazil. The animal had the body of a greyhound, a long neck and tail, and a small, nipping beak. Running on four, upright legs, the reptile looked remarkably like an early dinosaur. Yet it lived almost 10 million years before any other known dinosaurs.
+
+Reinventing Concrete, the Ancient Roman Way
+By learning the secrets of 2,000-year-old cement, researchers are trying to devise greener, more durable modern options.
+In June, the Italian Ministry of Culture announced the excavation of a new room, not yet open to the public, in the ruins of Pompeii. A few weeks later, a group of archaeologists gathered to marvel at it: walls covered with bright blue paint — an expensive pigment reserved for special rooms — and detailed frescoes of agricultural images remarkably well preserved after almost 2,000 years.
+
+How Early Humans Evolved to Eat Starch
+Two new studies found that ancient human ancestors carried a surprising diversity of genes for amylase, an enzyme that breaks down starch.
+As soon as you put starch in your mouth — whether in the form of a dumpling, a forkful of mashed potatoes or a saltine — you start breaking it down with an enzyme in your saliva.
+
+These Tiny Worms Account for at Least 4 Nobel Prizes
+A staple in laboratories worldwide, C. elegans is “an experimental dream,” said one scientist.
+When scientists win the Nobel Prize in Physiology or Medicine, they typically thank family and colleagues, maybe their universities or whoever funded their research.
+
+Sperm Can’t Unlock an Egg Without This Ancient Molecular Key
+Using Google’s AlphaFold, researchers identified the bundle of three sperm proteins that seem to make sexual reproduction possible.
+They’re the original odd couple: One is massive, spherical and unmoving. The other is tiny, has a tail and never stops swimming. Yet the union of egg and sperm is critical for every sexually reproducing animal on Earth.
+
+Parachutes Made of Mucus Change How Some Scientists See the Ocean
+With a new kind of microscope, researchers got a different view of how marine snow falls to the seafloor.
+The ocean is filled with microscopic creatures that thrive in the sunshine. These bacteria and plankton periodically clump up with detritus, like waste produced by fish, and then drift softly downward, transforming into what scientists call marine snow.
+
+Columbia Cancer Surgeon Notches 5 More Retractions for Suspicious Data
+Dr. Sam Yoon and a collaborator duplicated images across their research studies over many years. The collaborator has left Columbia.
+The chief of a cancer surgery division at Columbia University this week had five research articles retracted and a sixth tagged with an editor’s note, underscoring concerns about research misconduct that have lately bedeviled Columbia as well as cancer labs at several other elite American universities.
+
+Bumblebee Queens Prefer to Live in a Toxic Home
+In an elaborate experiment, scientists discovered that the insects chose to hibernate in soil full of pesticides and other poisons.
+North-facing, sloping ground with loose, sandy soil — if you’re a bumblebee queen on the market for a winter home, these features will have you racing to make an offer. But scientists were recently stunned to find there’s something else these monarchs like in a place to hibernate: pesticides.
+
+Space: The Final Fashion Frontier
+Prada and Axiom Space unveiled their NASA spacesuits, in the most far-out collaboration yet.
+In its quest to shape the aesthetics of everything, the fashion world has extended its glossy, well-decorated tentacles into all sorts of unexpected areas: sports, film, hotels, furniture, publishing. And, as of Wednesday, space.
+
+Fluoride, Vaccines, Obamacare: What to Know About Trump’s Health Statements
+Donald Trump’s pledge to let Robert F. Kennedy Jr. “go wild on health” has put three issues on the agenda in the final days of the 2024 campaign.
+With candidates and voters focused on the economy, immigration and abortion, the 2024 presidential election has been unusually light on health policy. But former President Donald J. Trump’s recent pledge to let Robert F. Kennedy Jr. “go wild on health” has put the issue front and center in the final days of the campaign.
+
+How Public Health Could Be Recast in a Second Trump Term
+Breaking up the C.D.C., moving funds from the N.I.H. — conservatives have floated changes should Mr. Trump regain office.
+The Covid pandemic dominated the last years of Donald Trump’s presidency, and the discontent it caused most likely contributed to his loss in 2020. But on the campaign trail this year, Mr. Trump rarely talks in depth about public health, dwelling instead on immigration, the economy and his grievances.
+
+Will Trump Have a New Opening to Repeal Obamacare?
+Even without congressional action, a second Trump administration will likely support major changes to Medicaid and the Affordable Care Act’s marketplaces, affecting millions of Americans.
+President-elect Donald J. Trump never revealed the “concepts” of the plan he said he had to replace the Affordable Care Act, the law that he tried unsuccessfully to kill during his first term.
+
+Does Kamala Harris Back Free Health Care for Illegal Immigrants?
+Donald Trump and other Republicans have said repeatedly that she does. Her history on the issue is complicated.
+One of former president Donald J. Trump’s final television ads before Election Day reprises an old talking point.
+
+Librarians Face a Crisis of Violence and Abuse
+As libraries become public stages for social problems — homelessness, drug use, mental health — the people who work there are burning out.
+On social media, Mychal Threets was spreading the gospel of “library joy” to hundreds of thousands of followers.
+
+How Taxpayers Are Helping Health Insurers Make Even Bigger Profits
+Local governments often face extra fees when employees get out-of-network medical care, but some don’t track the insurance charges or even know about them.
+Health insurers have made an enticing pitch to local governments across the country: When your workers see doctors outside your health plan’s network, costs can balloon, but we offer a program to protect against outrageous bills.
+
+For Older Unmarried Couples, Caregiving Obligations Can Be Murky
+What should be expected of an intimate partner when a companion suffers a health crisis? Seniors and their families increasingly confront the question.
+They’ve been an unmarried couple for almost 20 years. Both widowed, and now in their 90s, they maintain separate residences in Florida but mostly live together in her home — an increasingly important issue because, a few years ago, she began developing memory loss.
+
+Robert F. Kennedy Jr., Foe of Drug Makers and Regulators, Is Poised to Wield New Power
+President-elect Donald Trump has encouraged him to “go wild on health” but has not made clear what role Mr. Kennedy will play.
+When 12,000 public health professionals gathered in Minneapolis last week for the annual meeting of the American Public Health Association, Dr. Jerome Adams, who served as surgeon general in the first administration of President-elect Donald J. Trump, issued a pointed warning about Robert F. Kennedy Jr.
+
+Cost of Mpox Shot Deters Americans at Risk, Critics Say
+The epidemic in Africa continues to grow, prompting fears of another outbreak in the U.S. But the vaccine is no longer free, and vulnerable people are going without.
+A particularly deadly form of mpox, formerly called monkeypox, has led to more than 48,000 cases and more than 1,100 deaths in Africa this year. The Biden administration has donated one million doses of the vaccine to affected countries.
+
+Richard A. Cash, Who Saved Millions From Dehydration, Dies at 83
+He worked alongside another doctor to show that a simple rehydration therapy could check the ravages of cholera and other diarrhea-inducing diseases.
+Richard A. Cash, who as a young public-health researcher in South Asia in the late 1960s showed that a simple cocktail of salt, sugar and clean water could check the ravages of cholera and other diarrhea-inducing diseases, an innovation that has saved an estimated 50 million lives, died on Oct. 22 at his home in Cambridge, Mass. He was 83.
+
+From A.I. to Musk’s Brain Chips, the F.D.A.’s Device Unit Faces Rapid Change
+The new director overseeing medical devices will confront criticisms about hasty approvals as she ushers in revolutionary technology.
+There are now artificial intelligence programs that scan M.R.I.s for signs of cancer, Apple AirPods that work as hearing aids and devices that decode the electrical blips of the brain to restore speech to those who have lost it.
+
+Obesity Drug Shows Promise in Easing Knee Osteoarthritis Pain
+A large trial showed that semaglutide, sold as Ozempic for diabetes and as Wegovy for obesity, was better than any current medications in alleviating symptoms.
+The blockbuster drug semaglutide, sold as Ozempic for diabetes and as Wegovy for weight loss, now has a new proven benefit: It markedly soothed knee pain in people who are obese and have moderate to severe osteoarthritis, according to a large study.
+
+Can John Green Make You Care About Tuberculosis?
+With a forthcoming nonfiction book and an online army of Nerdfighters, the young-adult author aims to eliminate an entirely curable global scourge.
+You can roughly guess a person’s age based on how they know John Green. Older millennials met Mr. Green and his brother, Hank, on YouTube in the late 2000s, when they were performing songs about Harry Potter and cultivating a fan base of “Nerdfighters.” Younger millennials probably know him as the author of “The Fault in Our Stars,” “Looking for Alaska” and other best-selling young-adult novels that feature complex and frequently tragic teenage characters. Generation Z-ers herald Mr. Green as a beloved professor: Since 2012, he has hosted video lessons on history, literature and religion for an educational web series called “Crash Course.”
+
+Was Stone Age Scandinavia Struck by Plague?
+New research by geneticists hints at the deadly work of Yersinia pestis 5,000 years ago.
+At the end of the Stone Age, some 5,300 years ago, the populations of Scandinavia and northwest Europe plummeted, and farming communities evaporated. “People stopped building megaliths, like Stonehenge,” said Frederik Seersholm, a geneticist at the University of Copenhagen. “Settlements were abandoned. Everyone vanished.”
+
+C.D.C. Warns of Unusual Rise in Walking Pneumonia Cases
+The agency said infections had increased significantly among children ages 2 to 4.
+Infections with the bacteria that causes walking pneumonia have risen significantly this year, particularly among young children, the Centers for Disease Control and Prevention warned this month.
+
+Malaria Is Surging in Ethiopia, Reversing a Decade of Progress Against the Disease
+Climate change, civil conflict and growing resistance to insecticides and treatments are all contributing to an alarming spread of cases.
+Malaria infection rates are soaring in Ethiopia, where a combination of armed conflict, climate change and mosquitoes’ growing resistance to drugs and insecticides has accelerated the spread of a disease the country once thought it was bringing under control.
+
+As Bird Flu Spreads, Additional Human Infection Is Reported in Missouri
+Two people sharing a home caught the virus without known exposure to animals. More than 30 human cases have been reported in the United States.
+A Missouri resident who shared a home with a patient hospitalized with bird flu in August was also infected with the virus, federal officials reported on Thursday.
+
+Abortion Pills Are Safe. Post-Roe America Isn’t.
+In many states, hospitals are delaying or denying standard reproductive care.
+Once, when I was the obstetrician-gynecologist assigned to cover Christmas at my hospital, I was called to the emergency department for a patient undergoing a first-trimester pregnancy loss. Early pregnancy losses are common and generally uncomplicated. But this patient showed signs of possible infection.
+
+U.S. Study on Puberty Blockers Goes Unpublished Because of Politics, Doctor Says
+The leader of the long-running study said that the drugs did not improve mental health in children with gender distress and that the finding might be weaponized by opponents of the care.
+An influential doctor and advocate of adolescent gender treatments said she had not published a long-awaited study of puberty-blocking drugs because of the charged American political environment.
+
+The Kind of Moms Who Fall for ‘Make America Healthy Again’
+They don’t trust the medical system, and they need understanding — not mockery.
+In 2020, I followed a lot of Covid-skeptical momfluencers on social media. I wanted to see how they voiced their concerns about mask-wearing and disease spread. I hoped that over time I could somehow reverse-engineer the information pathway that led some women from Covid skepticism to anti-vaccine activism and then, in some cases, to other fringe and conspiratorial beliefs. I thought if I understood their information diet, I could explain their motivations better, if only to myself.
+
+‘No Smoking’ Signs on Planes Can Now Stay On Forever
+The Federal Aviation Administration did away with a rule that had required an off switch for the sign even though smoking on U.S. flights ended years ago.
+The days of airplane cabins hazy with cigarette smoke are long gone, but a reminder of that era is still visible inside commercial jets.
+
+Biden to Propose That Insurers Cover Over-the-Counter Birth Control
+The new rules under the Affordable Care Act would include emergency contraception, a newly approved nonprescription birth control pill, spermicides and condoms.
+The White House announced on Monday that it would propose new rules under the Affordable Care Act that would require insurers to cover over-the-counter birth control at no cost to patients, as it seeks to expand access to contraception and cut out-of-pocket costs.
+
+Under an L.A. Freeway, a Psychiatric Rescue Mission
+The crisis of homelessness is pushing American psychiatry to places it has not gone before — like sidewalk injections of antipsychotics.
+In a downtown Los Angeles parking lot, a stretch of asphalt tucked between gleaming hotels and the 110 freeway, a psychiatrist named Shayan Rab was seeing his third patient of the day, a man he knew only as Yoh.
+
+The Powerful Companies Driving Local Drugstores Out of Business
+The biggest pharmacy benefit managers are profiting by systematically underpaying independent drugstores, creating “pharmacy deserts” across the country.
+The small-town drugstore closed for the last time on a clear and chilly afternoon in February. Jon Jacobs, who owned Yough Valley Pharmacy, hugged his employees goodbye. He cleared the shelves and packed pill bottles into plastic bins.
+
+Veterans Dept. Investigating Acadia Healthcare for Insurance Fraud
+Several federal agencies are investigating whether the large chain of psychiatric hospitals held patients without medical justification.
+The Veterans Affairs Department is investigating whether Acadia Healthcare, one of the country’s largest chains of psychiatric hospitals, is defrauding government health insurance programs by holding patients longer than is medically necessary, according to three people with knowledge of the inquiry.
+
+These Tiny Worms Account for at Least 4 Nobel Prizes
+A staple in laboratories worldwide, C. elegans is “an experimental dream,” said one scientist.
+When scientists win the Nobel Prize in Physiology or Medicine, they typically thank family and colleagues, maybe their universities or whoever funded their research.
+
+It’s Always Virus Season Now
+The concept of flu season is too narrow.
+Health officials would like to remind you that we are entering that time of the year still quaintly known as flu season. That means autumn to spring. Kids go to school, adults spend more time gathered indoors, people breathe and speak and sneeze and cough at one another, and the latest influenza virus spreads widely.
+
+This Is What It Takes to Get an Abortion in America
+In text messages, videos, voice memos and pictures, we hear from the people at the frontlines of abortion access about how their worlds have changed.
+In text messages, videos, voice memos and pictures, we hear from the people at the frontlines of abortion access about how their worlds have changed.
+
+Could Weight-Loss Drugs Help Get People Back to Work? The U.K. Wants to Find Out.
+The British government announced a multimillion dollar pharmaceutical partnership with Eli Lilly, including a trial that will study the impact of a weight-loss drug on work and productivity.
+Around one in four adults in Britain is obese, according to estimates from the country’s National Health Service, and the problem costs the public health care system billions every year.
+
+TikTok Faces Barrage of Lawsuits Around Teens and Mental Health
+More than a dozen states sued TikTok on Tuesday for creating an app designed to be addictive to children and teenagers.
+Thirteen states and the District of Columbia sued TikTok on Tuesday, accusing the company of creating an intentionally addictive app that harmed children and teenagers while making false claims to the public about its commitment to safety.
+
+Daring Trump, Harris’s Campaign Releases Medical Information
+Vice President Kamala Harris released a letter from her doctor saying that she is in “excellent health,” as her campaign tries to capitalize on the lack of health information shared by her rival.
+Vice President Kamala Harris released a letter on Saturday from her White House doctor, who said she is in “excellent health” and is successfully managing some minor health issues.
+
+Harris Proposes Medicare Benefits for Home Care, Vision and Hearing
+The vice president’s health care plan is meant to help Americans who are struggling to find affordable home care for themselves or aging relatives.
+Vice President Kamala Harris outlined a new proposal for home health care on “The View” on Tuesday, describing a Medicare expansion plan that she said would help what is called the “sandwich generation” to take care of aging parents.
+
+Florida IV Fluid Plant Spared From Storm, Company Says
+Milton threatened a Daytona Beach site that produces one-fourth of the nation’s IV medical solutions, which were already in short supply because of storm damage in North Carolina.
+The Daytona Beach plant that makes nearly a quarter of the IV fluids used in the United States is intact in the wake of Hurricane Milton’s tear across Florida, according to a company spokeswoman.
+
+Does Your School Use Suicide Prevention Software? We Want to Hear From You.
+Concerned about anxiety and depression among students, some schools are monitoring what children type into their devices to detect suicidal thinking or self-harm.
+In response to the youth mental health crisis, many school districts are investing in software that monitors what students type on their school devices, alerting counselors if a child appears to be contemplating suicide or self-harm.
+
+U.S. Races to Replenish Storm-Battered Supplies of IV Fluids at Hospitals
+The F.D.A. has authorized shipments from overseas plants to ease shortages of IV bags caused by Hurricane Helene as hospitals begin rationing fluids to protect the sickest patients.
+U.S. officials approved airlifts of IV fluids from overseas manufacturing plants on Wednesday to ease shortages caused by Hurricane Helene that have forced hospitals to begin postponing surgeries as a way to ration supplies for the most fragile patients.
+
+She Had Thoughts of Harming Her Baby. To Treat Her, Doctors Kept Them Together.
+In specialized wards called mother-and-baby units, doctors treat postpartum psychosis while allowing women to keep caring for their children.
+The blood dripping from the bathroom faucet was the first sign that something was wrong. A few days later, Alexandra Hardie saw cockroaches scuttle from beneath the bed. Soon, she noticed spiders crawling up the wall.
+
+TV Medical Dramas Are Not Like Real Life. Maybe They Should Be.
+On television, medical stories end with a diagnosis and a return to normalcy. In reality, they are far more complicated.
+The classic medical story line has a few key ingredients. There is a likable protagonist with a set of perplexing and debilitating symptoms. There are clear stakes. Will the young patient be able to walk down the aisle at her wedding? There is a diagnosis, followed by a high-stakes surgery or a risky medication. And then there is the final act. The bride walks down the aisle. Life returns to how it once was.
+
+Deadly Marburg Virus Hits Rwanda’s Doctors and Nurses Hard
+The Health Ministry has reported that 80 percent of the infected are health care professionals.
+Rwanda’s fragile health care system could become overwhelmed by the deadly Marburg virus, doctors fear, because most of those currently infected are medical professionals, and some have already died.
+
+On Drug Prices, Harris Pushes for Deeper Cuts While Trump Offers Few Specifics
+Both have campaigned for lower prescription costs. Kamala Harris has promised to expand President Biden’s policies. Donald Trump is a wild card.
+Insulin for $35 a month. A limit of $2,000 a year in out-of-pocket drug costs for older Americans. Billions of dollars in savings for Medicare resulting from drug negotiations.
+
+Discovery in Tiny Worm Leads to Nobel Prize in Physiology or Medicine for 2 Scientists
+The prize was awarded to Victor Ambros and Gary Ruvkun for their discovery of microRNA, which helps determine how cells develop and function.
+Victor Ambros and Gary Ruvkun were awarded the Nobel Prize in Physiology or Medicine on Monday for the discovery of microRNA, a tiny class of RNA molecules that play a crucial role in determining how organisms mature and function — and how they sometimes malfunction.
+
+How Can I Get ‘Forever Chemicals’ Out of My Life?
+They’re almost everywhere. And they’re bad. But there are some things you can do to avoid them.
+“Forever chemicals,” also known as PFAS, are everywhere. They’re in our water, our soil and in everyday items like cookware, mascara or waterproof clothing.
+
+Trump Promised to Release His Medical Records. He Still Won’t Do It.
+If elected again, he would become the oldest president by the end of his term. Yet he is refusing to disclose even basic health information.
+As a presidential candidate in 2015, Donald J. Trump declined to release his medical records, instead offering a four-paragraph letter from his personal doctor proclaiming that he would be “the healthiest person ever elected to the presidency.”
+
+Is Nighttime Depression Really a Thing?
+There are lots of reasons your mood might tank at night. Here’s how to address the bedtime blues.
+It’s not uncommon for our minds to unleash a torrent of difficult feelings under the cover of darkness: sadness and negative thoughts may surface at night, making sleep hard to come by.
+
+What to Expect if Kennedy Is Promoted to a Position of Power
+Giving him a top health job would entrench partisanship around public health.
+Robert F. Kennedy Jr. reportedly wants to be the secretary of health and human services or hold a similarly powerful health position in a Trump White House. Mr. Kennedy claims he’s been promised influence over the two issues he is most eager to address: federal agency corruption and chronic disease. “I’m going to be deeply involved in helping to choose the people who can run F.D.A. and N.I.H. and C.D.C.,” he told Tucker Carlson on a recent panel.
+
+As America’s Marijuana Use Grows, So Do the Harms
+The drug, legal in much of the country, is widely seen as nonaddictive and safe. For some users, these assumptions are dangerously wrong.
+In midcoast Maine, a pediatrician sees teenagers so dependent on cannabis that they consume it practically all day, every day — “a remarkably scary amount,” she said.
+
+What to Know About the Marburg Virus Disease Outbreak
+In Rwanda, 11 deaths have been reported from this rare but deadly disease. Two people tested negative in Germany this week.
+Rwanda is in the midst of an outbreak of Marburg virus disease, a hemorrhagic fever with a high fatality rate that has killed 11 people there this year.
+
+You’re Due for a Colonoscopy, but What if You Don’t Want It?
+Doctors can provide alternative forms of screening for colon and rectal cancer but sometimes have a good reason to stick with the colonoscope.
+This year about 53,000 Americans are expected to die from colon or rectal cancer. Doctors say most people should start getting screened at age 45. Yet many who are eligible skip testing.
+
+Gilead Agrees to Allow Generic Version of Groundbreaking H.I.V. Shot in Poor Countries
+Many middle-income countries are left out of the deal, widening a gulf in access to critical medicines.
+The drugmaker Gilead Sciences on Wednesday announced a plan to allow six generic pharmaceutical companies in Asia and North Africa to make and sell at a lower price its groundbreaking drug lenacapavir, a twice-yearly injection that provides near-total protection from infection with H.I.V.
+
+A Patchwork of Cannabis Laws Creates Health Risks, Study Finds
+A new report calls for public education and closing of legal loopholes to keep the public safe.
+As more states have legalized the sale of cannabis, a fractured and inconsistent legal framework has emerged across the country that has prioritized sales income and tax revenue over public health, a new report finds.
+
+After Your Death, Who Takes Care of the Dog?
+A pet trust designates a new guardian for companion animals and sets aside funds for their care. Better yet, it’s legally binding.
+In 2016, Tracy Jennings received shocking news: A lifelong friend, a woman who had a farm with animals great and small, had died suddenly in an accident.
+
+Small Business Administration Will Soon Exhaust Disaster Loan Funds
+The agency has less than $100 million for new loans, according to officials, while Hurricane Milton is headed toward Florida and after Hurricane Helene devastated much of the Southeast.
+Small Business Administration officials warned on Tuesday that the agency would “very soon” exhaust its funding for new disaster loans for homeowners and businesses in the wake of Hurricane Helene.
+
+Ratan Tata, Whose Indian Business Empire Went Global, Dies at 86
+The patriarch of a powerful family, his Tata Group put an indelible stamp on Indian life while acquiring British brand names like Tetley Tea and Jaguar.
+Ratan Tata, one of India’s most powerful and admired magnates, who transformed his family’s business conglomerate, the Tata Group, into a multinational corporation with globally recognizable brands, died on Wednesday in Mumbai. He was 86. 
+
+Led by Believers in the City’s Future, Detroit Is on the Rebound
+Once the largest city in the U.S. to declare bankruptcy, this Midwestern metropolis is now thriving. But some obstacles still remain.
+On a sunny Friday morning last month, Mike Duggan, the mayor of Detroit, got behind the wheel of his black Jeep Grand Cherokee to give a tour of the city he has led for 10 years. Not far from Michigan Central Station, the former hulking ruin that was recently transformed into a gleaming office complex, he slowed to point to a construction site of vertical steel girders and yellow earth-moving machines. It will become a 600-room JW Marriott hotel, linked to the city’s convention center and scheduled to open by 2027, when college basketball’s Final Four will be played in Detroit.
+
+In Detroit, Creating a New Hub for Innovation
+Entrepreneurs once flocked to Motor City to build cars. Now, they’re building its mobility future.
+David Medina Álvarez hopped on a four-wheeled vehicle that looked like a speeder bike from Star Wars. Donning a helmet and goggles, the 25-year-old designer zoomed down 15th Street, driving alongside the massive Michigan Central train station, built in 1913, which had just reopened after a gleaming $1 billion renovation.
+
+Why This Rainbow Gel Manicure (With Chrome!) Costs $255
+Pricing for soft gel nail extensions depends on the length, size and brand, as well as any nail art, and can run several hundred dollars.
+For Ms. Pinto, who worked in art curation, nails are just another form of art.
+
+Pandemic Start-Ups Are Thriving, and Helping to Fuel the Economy
+A record surge in new businesses has helped drive job growth, and could have longer-term benefits.
+Hector Xu was on track for a career in academia when the pandemic upended his plans.
+
+Ted Drewes Jr., the Frozen Custard King of St. Louis, Dies at 96
+Celebrity chefs and politicians paid tribute to the man behind the extra-thick shake known as the concrete, an intrinsic part of St. Louis summers.
+Ted Drewes Jr., the proprietor of two venerable St. Louis frozen custard stands that drew national acclaim for shakes so thick they are served upside down, and that were embraced locally as city institutions on the order of the Cardinals or the Gateway Arch, died on Aug. 26 in St. Louis. He was 96.
+
+The Big Number: $3.8 Billion
+The amount offered by Nordstrom’s founding family to buy its namesake retailer.
+The family behind Nordstrom, the 123-year-old department store, announced on Wednesday that it was offering $3.8 billion to take the company private. The company, founded in Seattle, is led by a fourth generation of Nordstroms.
+
+Japan Tries to Reclaim Its Clout as a Global Tech Leader
+Japanese chip companies are tapping billions of dollars and collaborating with foreign firms as part of new government policies that look outward.
+China’s envy-inducing success in using industrial policy to expand its economy and finance green manufacturing has helped kick off a fevered scrimmage among nations to develop and protect their own hometown businesses.
+
+Harris and Trump Embrace Tariffs, Though Their Approaches Differ
+Both Democrats and Republicans are expressing support for tariffs to protect American industry, reversing decades of trade thinking in Washington.
+When Donald J. Trump ran for president in 2016, there was not much love for tariffs in Washington. Many Republicans and Democrats believed that putting levies on imports created economic inefficiencies and that freer trade was the best recipe for growth.
+
+Meet the New Home Kitchen Business
+Starting in November, licensed home kitchens in Los Angeles County will be able to sell dine-in and to-go meals, as a 5-year-old state law expands.
+What accomplished home cook hasn’t fantasized about opening a restaurant? Usually, that fantasy fizzles right at the point where hundreds of thousands of dollars are needed to sign a lease.
+
+Elon Musk’s X Is Leaving San Francisco. City Officials Say ‘Good Riddance.’
+The company, founded in the city as Twitter, is moving its headquarters to Texas as a shadow of its former self.
+San Francisco’s long relationship with X is nearly over — and city officials are far from heartbroken.
+
+Trump Bashes Arab Americans. Here’s Why Some Like Him Anyway.
+In a diverse enclave on Staten Island, some business owners say former President Donald J. Trump’s racist rhetoric and anti-Muslim policies are troubling but not disqualifying.
+To better understand Donald Trump’s surging appeal among immigrant voters a friend suggested that I visit a particular corner of Staten Island, where an astonishingly diverse population, clustered around a set of minority-owned businesses, has recently emerged on a stretch of Hylan Boulevard.
+
+They Don’t Care About the Marathon. They Just Want to Cross the Street.
+In a city where grousing about nearly anything is fair game, some people see the race more as an inconvenience than as a festive occasion.
+To many New Yorkers, the first Sunday in November means a chance to watch runners from all over the world chase their dreams in the New York City Marathon.
+
+Inside Five of America’s Strangest Polling Places
+Grab a snack, do your laundry and cast a ballot.
+This article is part of A Kid’s Guide to the Election, a collection of stories about the 2024 presidential election for readers ages 8 to 14, written and produced by The New York Times for Kids. This section is published in The Times’s print edition on the last Sunday of every month.
+
+A 185-Year-Old Building in the South Street Seaport Is Listed for $14.95 Million
+The owners of the wine store Pasanella & Son, Vintners, are selling their five-story building on South Street, which includes the store, a loft and six rental apartments.
+The 1839 Greek Revival building at 115 South Street is on the market for $14.95 million. The five-story property totals 13,119 square feet and comprises a full-floor penthouse loft, six half-floor rental apartments, and a commercial space on the ground floor, where the building’s owners, Marco Pasanella and Rebecca Robertson, run their celebrated wine store, Pasanella & Son, Vintners. Jim St. André of Compass is the broker.
+
+How Fugetsu-Do Survived the Evolution of Little Tokyo
+Fugetsu-Do, a mochi store in the Little Tokyo neighborhood of Los Angeles, has existed for 121 years, with a lasting impact on its community.
+Since 1903, a Japanese confectionery called Fugetsu-Do has been making mochi in the Little Tokyo neighborhood of Los Angeles.
+
+How A.I. Can Help Start Small Businesses
+Entrepreneurs say use of artificial intelligence for a variety of tasks is accelerating the path to hiring and, ideally, profitability.
+Sean Ammirati has been teaching a class on entrepreneurship for more than a decade.
+
+Harris Steps Up a Major Push for Black Voters
+The vice president released a plan to help Black men financially, held interviews with two Black media outlets and put out targeted ads in battleground states.
+Vice President Kamala Harris made a sweeping push on Monday to energize Black voters, among whom she faces slipping support, unveiling a plan to bolster the finances of Black men, appearing in interviews with two Black media outlets and releasing a pair of ads in battleground states targeted to that crucial voting group.
+
+Biden Calls for Bipartisan Effort to Help Areas Hit by Storms
+The president surveyed damage in Florida and announced $612 million for projects to help the electric grid in areas affected by Hurricanes Helene and Milton.
+Standing in front of one of the many houses wrecked by Hurricane Milton in Florida, President Biden said on Sunday that the storm was devastating for those who lost homes, businesses or relatives, even as he expressed relief that the storm was not as destructive as anticipated.
+
+Biden Again Criticizes Trump Over Hurricane Misinformation: ‘Get a Life, Man’
+The White House is juggling the response to two devastating storms in the past two weeks while trying to rebut false information from the former president.
+President Biden warned on Thursday that Florida was in for “a long haul” after Hurricane Milton, and for a second day in a row he singled out former President Donald J. Trump for spreading misinformation, telling him to “get a life, man.”
+
+With 100-Foot-Wide Trump Sign, a Sticker Company Dives Into Politics
+The chief executive of Sticker Mule in Amsterdam, N.Y., set off a debate by displaying his support for Donald J. Trump in a massive sign atop the company’s headquarters.
+Sticker Mule, a printing company known for novelty T-shirts and coasters, was not, until recently, a political animal.
+
+Biden Urges Congress to Replenish Disaster Relief Funds Quickly
+The president said a Small Business Administration program needed to help business owners recover from Hurricane Helene was set to run out of money in weeks, before Congress reconvenes.
+President Biden urged members of Congress on Friday to provide emergency funding for the Small Business Administration, saying the agency is critically low on money needed to help people in communities devastated by Hurricane Helene.
+
+Hurricane Helene’s Trail of Destruction in Asheville, N.C.
+Brandon Davis returned to his business in Asheville, N.C. for the first time since Hurricane Helene devastated the area several days ago.
+Brandon Davis returned to his business in Asheville, N.C. for the first time since Hurricane Helene devastated the area several days ago.
+
+Kylie Jenner and Ayo Edebiri Toast a Starry Crowd at Paris Fashion Week
+Actors, designers and musicians turned out at a party to celebrate the Business of Fashion’s annual index of industry leaders.
+After a cold and dreary week in Paris, the sun finally broke through on Saturday morning, just in time for the tail end of Paris Fashion Week.
+
+A’s Fans Cheered. Then They Protested. Now They Mourn.
+Fan groups that once partnered with Oakland’s ownership turned into its most vocal critics. With nothing left to fight, they will stage a funeral of sorts.
+At first, it was all love. They were some of the most visible and passionate fans in the Oakland Coliseum bleachers, and the Athletics wanted help keeping the energy up, as the team struggled through a down stretch.
+
+Can Free Rent Revive Downtown San Francisco?
+The city, which is among those most devastated in the country after the pandemic, is trying to lure businesses back with a free-rent period.
+There’s a buzz of energy in downtown San Francisco from a source that has been missing for years: occupied storefronts.
+
+Empowering Female-Led Climate Action
+One way of tackling climate change? Supporting Women's solutions
+
+How the Election Is Sinking a $15 Billion Business Deal
+The Biden administration is expected to block a takeover of U.S. Steel by Japan’s Nippon Steel.
+In a highly unusual move, the Biden administration signaled last week that it would block a Japanese company from buying an iconic American company in a critical swing state.
+
+Paraguay Loves Mickey, Its Cartoon Mouse. Disney Doesn’t.
+Mickey, a homegrown food-packaging company, is famous for facing down Disney in Paraguay’s Supreme Court. As the family business turns 90, why is it still so popular?
+One is a colossus spanning theme parks, merchandise and movies, with 150 Academy Awards, 225,000 employees and annual revenue of nearly $90 billion.
+
+In a Transformed Neighborhood, a Funeral Home Finds New Life as a Gym
+The former Scotto Funeral Home, a landmark of bygone Brooklyn, is reopening after a multiyear renovation and Catholic blessing — as a boutique gym.
+In gentrifying Brooklyn, as neighborhoods shift, once booming businesses can fade away.
+
+Harris Tells the Business Community: I’m Friendlier Than Biden
+The vice president on Wednesday proposed an increase on the capital gains tax that was far less than what President Biden has floated, one of several moves meant to win over business owners.
+Vice President Kamala Harris on Wednesday sought to put daylight between herself and President Biden on tax policy, making it the first issue on which she is trying to stand apart from an administration in which she holds a key role.
+
+Chevron, in Snub to California, Will Move Its Headquarters to Houston
+The oil company, which already has extensive operations in Texas, has been at odds with California’s elected leaders over the state’s climate and energy policies.
+Chevron, the second-largest U.S. oil company, is moving its headquarters to Houston from California, formalizing a long-expected breakup with a state that has pushed aggressively to address climate change.
+
+New Jersey Is Prompting a New Sports Identity Crisis in Philadelphia
+The state is already home to four teams whose uniforms say “New York.” Now it’s trying to lure the N.B.A.’s 76ers.
+Frank Capece felt a twinge of nostalgia last week when he heard New Jersey officials were trying to convince the Philadelphia 76ers to cross state lines and establish a new home in Camden, N.J.
+
+Harris, Proposing a Tax Break, Makes a Play for Small-Business Owners
+The plan, which Kamala Harris will announce on Wednesday in New Hampshire, would allow new companies to deduct up to $50,000 in start-up expenses, a campaign official said.
+Vice President Kamala Harris on Wednesday is set to propose expanding a tax break for start-ups, one of a series of policy ideas her campaign is rolling out this week aimed at helping entrepreneurs and small businesses.
+
+N.Y.P.D. Ousts 2 Reporters From Headquarters in Escalation of Tensions
+The actions taken against the reporters, from The New York Post and The New York Times, came after federal agents seized the phone of New York City’s police commissioner.
+Two reporters who cover the New York Police Department had their access to the agency’s headquarters temporarily revoked on Thursday, a day after federal agents seized the phone of the city’s police commissioner, Edward A. Caban.
+
+James Ledbetter, Media Critic and Business Journalist, Dies at 60
+He wrote the Press Clips column for The Village Voice, held top jobs at Inc. magazine and Slate, and wrote a book about how the startup magazine The Industry Standard fizzled.
+James Ledbetter, a former media critic who wrote the Press Clips column for The Village Voice in the 1990s, led Inc. magazine as its editor in chief and started an online financial technology newsletter, died on Monday at his home in Manhattan. He was 60.
+
+Why Businesses Worry About R.F.K. Jr.
+The Kennedy scion has long been a skeptic of vaccines, pesticides and more. Corporate leaders worry he may gain policy power if Donald Trump wins.
+As corporate America increasingly reckons with the possibility of Donald Trump returning to the White House, it’s grappling with the policies that key advisers might push for.
+
+Comcast Explores Spin-Out of Cable Network Business
+The company’s president, Mike Cavanagh, said the company was also considering finding a partner for its Peacock streaming service.
+Comcast, one of the nation’s biggest television companies, said on Thursday that it was weighing whether to cleave its cable networks from the rest of the company, a move that could put it in position to shake up the struggling cable industry.
+
+How TikTok Saved Its E-Commerce Business in Indonesia
+When the government effectively forced TikTok to shut down its Shop feature, the company quickly struck an unusual deal with a local company to bring it back.
+A year ago, TikTok’s e-commerce business in Indonesia was thriving. With its viral videos, TikTok had become a worldwide phenomenon, and it was translating its influence into a powerful new revenue stream by letting users buy and sell things while its videos played.
+
+Democrats and the Case of Mistaken Identity Politics
+The post mortem is a wake for woke.
+Some Democrats are finally waking up and realizing that woke is broke.
+
+Trump’s Victory Is a Major Win for Elon Musk and Big-Money Politics
+The candidate largely let the billionaire run his $175 million ground game — a gamble that future candidates could look to emulate.
+At a raucous election-night gathering on Tuesday, Elon Musk sat two seats away from Donald J. Trump, ready to claim wide credit for his decisive presidential win.
+
+In Politics, Pro Athletes (and Owners) Are Just Like the Rest of Us: Divided
+A pro-Harris video from LeBron James. A pro-Trump hat on Nick Bosa. With Election Day near, more have been showing their preference.
+Over the past eight years, the three top American sports leagues — the National Basketball Association, Major League Baseball and the National Football League — have at times dived headlong into political maelstroms.
+
+With Political Victory, Trump Fights Off Legal Charges
+By triumphing at the ballot box, Donald Trump can dispense with federal charges against him while postponing or derailing other pending cases that have dogged him.
+For all that former President Donald J. Trump’s election to a second term was a remarkable political comeback, it was also the culmination of an audacious and stunningly successful legal strategy that could allow him to evade accountability for the array of charges against him.
+
+The Jobs Report on Friday May Be a Fluke and a Political Football
+Economists expect the October data to show unusually weak job creation. But hurricanes and strikes may account for much of the shortfall.
+This close to an election, even the driest economic data can be politicized. So if the monthly jobs report lands on Friday with an unusually low number of jobs created in October, Republican campaigns may blast it out as a sign that the labor market has taken a turn for the worse. (Last month, Senator Marco Rubio of Florida reacted to a strong report by calling it “fake.”)
+
+How Trump Won, and How Harris Lost
+He made one essential bet: that his grievances would become the grievances of the MAGA movement, and then the G.O.P., and then more than half the country. It paid off.
+Donald J. Trump’s chief pollster, Tony Fabrizio, had seen just about everything in his three races working for the controversy-stoking former president. But even he seemed to be bracing for bad news.
+
+Trump Win Shows Political Limits of Biden’s Industrial Policy Vision
+Long-term economic investments in domestic manufacturing were overshadowed by real-time anxiety over rent and grocery prices.
+When President Biden addressed the nation this week after a gutting election, his reflections on his economic legacy offered a glimpse into why Democrats were resoundingly defeated.
+
+Weak Jobs Report Provides Political Fodder Ahead of Election Day
+Republicans and Democrats used the latest jobs numbers to bolster their arguments about who would be better at managing the economy.
+A weak jobs report that was depressed by storms and labor strikes quickly became political fodder on Friday as Republicans and Democrats injected the numbers into their arguments over whether former President Donald J. Trump or Vice President Kamala Harris would be better at managing the economy.
+
+Trump’s Wild Claims, Conspiracies and Falsehoods Redefine Presidential Bounds
+Throughout his life, Donald J. Trump has bent the truth to serve his needs, never more so than on the campaign trail to win back the White House.
+It took just two minutes for former President Donald J. Trump to utter his first lie of the evening, claiming once again that the 2020 election had been stolen.
+
+How Election Coverage Extends Beyond Politics
+Nearly every team at The Times has some hand in election coverage. Journalists from the Styles, Culture, Business and National desks shared how they’re tackling the moment.
+Election Day is seven days away. Every day of the countdown,  Times Insider will share an article about how our election coverage works. Today, journalists from across the newsroom discuss how the political conversation affects their beat.
+
+Donald Trump Wins Arizona, Reversing the State’s Blue Trend
+The victory added to the list of battleground states that Mr. Trump lost in 2020 and flipped back four years later.
+President-elect Donald J. Trump has won Arizona and its 11 electoral votes, The Associated Press said on Saturday night, flipping yet another swing state and bringing his final Electoral College tally to 312. With his victory in Arizona, Mr. Trump has now won all seven of this year’s battleground states.
+
+Trump Wins Nevada, Flipping a Battleground State
+President-elect Donald J. Trump’s victory in Nevada was the first for Republicans in a presidential election since 2004.
+President-elect Donald J. Trump has won Nevada, according to The Associated Press, flipping a battleground state Republicans had not won since 2004.
+
+Trump Holds Up Transition Process Over Ethics Code
+President-elect Donald J. Trump has not submitted a required ethics plan stating he will avoid conflicts of interest.
+President-elect Donald J. Trump has not yet submitted a legally required ethics pledge stating that he will avoid conflicts of interest and other ethical concerns while in office, raising concerns that his refusal to do so will hamper the smooth transition to power.
+
+Biden and Trump to Meet at White House on Wednesday
+President Biden extended the invitation to his former rival as part of a longstanding tradition to help ease the transition to a new administration.
+President Biden will host President-elect Donald J. Trump at the White House on Wednesday, extending a presidential tradition to his onetime rival that Mr. Trump did not offer four years ago after Mr. Biden defeated him.
+
+The Democratic Blind Spot That Wrecked 2024
+Maybe it would have been better if the “red wave” had crashed ashore in 2022.
+The 2022 election went better than Democrats could have hoped. The party picked up governor’s mansions and state legislatures and expanded their Senate majority. It held down losses in the House. The promised “red wave” never crashed ashore. Perhaps it would have been better if it had.
+
+There Were Two Huge Problems Harris Could Not Escape
+The curling theory of campaigns proves itself again.
+Sarah Isgur, a longtime Republican campaign operative — and my friend and a senior editor at The Dispatch — has a brilliant sports analogy for the process of campaigning. She compares it to … curling.
+
+Read the Special Counsel’s Filing
+Jack Smith, the special counsel, asked a judge to put on hold all filing deadlines in the federal case accusing President-elect Donald J. Trump of plotting to overturn the 2020 election.
+Jack Smith, the special counsel, asked a judge to put on hold all filing deadlines in the federal case accusing President-elect Donald J. Trump of plotting to overturn the 2020 election.
+
+Bacon Defeats Vargas in Nebraska, Holding a Key House Seat for Republicans
+The victory of the four-term Republican, who has resisted his party’s veer to the right, dashed Democratic hopes of flipping a critical district.
+Representative Don Bacon of Nebraska, one of the most politically vulnerable Republicans in the country, has defeated his Democratic challenger and won a fifth term, according to The Associated Press. His victory denies Democrats one of their best opportunities this year to pick up a seat and bolsters his party’s drive to hold its majority.
+
+Who Is Viktor Orban, Hungary’s Authoritarian Leader and Friend of Trump?
+The long-serving prime minister, a champion of ‘illiberal democracy,’ has been politically isolated in much of Europe. But he has found common ground with the former and soon-to-be new U.S. president.
+Viktor Orban, Hungary’s prime minister, has been at odds with his fellow European Union leaders for years over his right-wing nationalist stance on immigration, minority rights, the rule of law, media freedoms and other issues. He would not get in line with his counterparts’ views on aiding Ukraine and has openly sympathized with President Vladimir V. Putin of Russia.
+
+At Women’s March Event, Organizers Say They Are Preparing a ‘Comeback Tour’
+At a demonstration on Saturday, the crowd was small and enthusiasm was lacking. But organizers are planning a big march ahead of the inauguration.
+On Saturday, after former President Donald J. Trump’s re-election dashed progressives’ hopes of a new era for women’s rights and other left-wing causes, Women’s March held a hastily arranged protest-cum-dance party outside the headquarters of a conservative think tank in Washington. Only about a few hundred people showed up.
+
+Elon Musk Is Positioning X Behind the New Trump Presidency
+Since the election, Mr. Musk has used his social media company to talk up how bright the future will be under the president-elect.
+Since Donald J. Trump won the presidential election, Elon Musk has gone all in on X to promote the incoming administration.
+
+Giuliani Speaks After Missing Court Deadline for $148 Million Payment
+Rudy Giuliani, the former New York City mayor, owes $148 million from a 2021 defamation case, which he called “a political vendetta.”
+Rudy Giuliani, the former New York City mayor, owes $148 million from a 2021 defamation case, which he called “a political vendetta.”
+
+Democrats Consider an Autopsy, but Who’s the Coroner?
+The Democratic Party agrees it needs to figure out what went wrong. The question is how.
+After suffering what could shape up to be their biggest electoral defeat in more than 40 years, Democrats agree on one thing: They need to figure out what went wrong.
+
+Trump Is About to Face the Choice That Dooms Many Presidencies
+Electoral success has a thousand fathers, each with his own agenda.
+As happens every time a new president is elected, Donald Trump is experiencing a sudden role reversal. His campaign to earn support from voters has ended abruptly and a new one has begun among donors and activists to earn his support for their priorities. The election was about tax cuts, or maybe cryptocurrency, the arguments go. What Americans really want, sir, is fewer protections on the job and a weaker safety net.
+
+Pelosi Laments Biden’s Late Exit and the Lack of an ‘Open Primary’
+“Had the president gotten out sooner, there may have been other candidates in the race,” the former House speaker said in an interview with The New York Times, suggesting she had anticipated an “open primary.”
+Representative Nancy Pelosi, the former House speaker, suggested this week that it would have been better for the Democratic Party if President Biden had abandoned his re-election campaign sooner and the party had then held a competitive primary process to replace him.
+
+Maybe Now Democrats Will Address Working-Class Pain
+Democrats can compete if they focus more on minimum wages and child care than pronouns and purity.
+The other day I was supposed to visit a friend who had been released from prison. He had to cancel to rescue his sister, who is using drugs again.
+
+Unions Bet Big on Harris. Now They’re Bracing for Consequences.
+Government unions, service worker unions and industrial unions all face possible repercussions from Donald Trump’s victory, but not necessarily all the same kind.
+Besides the Harris campaign and its affiliated political action committees, few economic or political sectors placed larger bets than organized labor on Vice President Kamala Harris’s winning the presidency.
+
+How Democrats Helped Trump
+Why the 2024 election’s outcome was uniquely foreseeable.
+For the first time since the night of Nov. 4, 2008, a presidential election went exactly the way that I expected it to go.
+
+TL;DR: Blame Biden
+Trump is on track to win the popular vote. There’s a lesson there.
+The Democratic Party needs to take a look in the mirror, and fast. This week on ‘Matter of Opinion,’ Opinion columnist and friend of the show Lydia Polgreen joins the hosts to dissect what went wrong for Democrats, and what kind of leadership the party needs to win back voters in Trump’s America.
+
+It’s Time to Resist the Resistance
+Resistance politics inevitably feels conservative. It’s reactionary in a literal sense, and this week, it ended in disaster for the Democrats.
+What do Democrats stand for? Over the last eight years, the answer has been simple: whatever Donald Trump is against. They have been the party of the so-called Resistance, defending institutions against a dangerous and fundamentally undemocratic movement. Two impeachments, four criminal investigations and 34 felony convictions, along with countless warnings that democracy was in peril: All of it flowed out of the conviction that Mr. Trump was a menace who couldn’t be addressed by politics as usual. It has defined what it means to be a Democrat. And it failed spectacularly this week, helping clear a path for Mr. Trump to return to the White House with a clean victory in the popular vote. This time, there’s no James Comey to scapegoat or Electoral College to blame. It’s a painful defeat — but it could also be a moment of rebirth for the party as it sets out to find a lasting Democratic majority.
+
+Judge Grants Jack Smith’s Request for Pause in Jan. 6 Case After Trump’s Election
+The special counsel asked for time to assess how to proceed now that Donald Trump is returning the White House, triggering a Justice Department policy against prosecuting a sitting president.
+A judge on Friday granted a request from the special counsel, Jack Smith, to pause all filing deadlines in the federal case accusing President-elect Donald J. Trump of plotting to overturn the 2020 election.
+
+Inside the Federal Work Force That Trump Has Promised to Eviscerate
+President-elect Donald J. Trump and his allies have pledged to strike fear in the heart of what they term “the deep state.” They have already succeeded.
+The tremors from Donald J. Trump’s decisive electoral victory have hit every corner of Washington. But their maximum intensity is felt by the capital’s federal work force, which comprises tens of thousands of mostly anonymous employees not-so-fondly referred to by Mr. Trump as “the deep state.”
+
+Let’s Not Lose Sight of Who Trump Is
+The 2024 election has the potential to challenge the New Deal realignment of 1932 as the most consequential election of the past 100 years.
+In terms of historical perspective, the 2024 election has the potential to challenge the New Deal realignment of 1932 as the most consequential election of the past 100 years.
+
+This Is All Biden’s Fault
+Biden too often could not find the best way to help Democrats win.
+Kamala Harris lost the election this week, but I mostly don’t blame her. At least, I don’t blame her because of anything she did recently. Since she became the unofficial nominee in July, she played a difficult hand about as well as she could have, running a disciplined campaign that sought to reassure Americans about the economic issues that trouble them most, in a political environment that was very rough for Democrats and for incumbent parties around the world.
+
+Goodbye to Democracy? Not Quite Yet.
+In a year filled with elections, the state of democracy is thriving by many measures. But there are dark clouds on the horizon.
+In this year of elections, when a full quarter of humanity was eligible to vote, pessimism about the fate of democracy has spread among politicians, civil society, media commentators and political scientists. The victory of Donald Trump on Wednesday, with his demagogy and verbal assaults on what he referred to as “enemies from within,” makes the assessment that democracy is in retreat seem all the more plausible.
+
+The Elites Had It Coming
+Democrats got exactly what they set out to get, and now here we are.
+Everyone has a moment when they first realized that Donald Trump might well return, and here is mine. It was back in March, during a visit to the Smithsonian’s National Portrait Gallery, when I happened to read the explanatory text beside an old painting. This note described the westward advance of the United States in the 19th century as “settler colonialism.” I read it and I knew instantly where this nation was going.
+
+What Do Trump Voters Know About the Future He Has Planned for Them?
+Be careful what you wish for, Part 99.
+On Tuesday, Donald Trump became the first Republican in 20 years to win the national popular vote and the Electoral College.
+
+With Trump’s Victory, Europe’s Populist Right Sees Return of a Fellow Believer
+Viktor Orban of Hungary and other right-wing European politicians hail the return of a U.S. president who shares their tough views on issues like immigration.
+For months, Hungary’s media apparatus pumped out stories lionizing Donald J. Trump and deriding Kamala Harris, described in one headline as “extremely unpleasant.” 
+
+I Study Guys Like Trump. There’s a Reason They Keep Winning.
+Democrats walked into the trap of defending the very institutions most Americans distrust.
+In December 2019, I traveled to Hong Kong, where a heavy unease hung in the air. For months, young people had taken to the streets to protest the encroachment of the Chinese Communist Party on what was supposed to be a self-governing, democratic system. On walls they had scrawled: “Save Hong Kong! If we burn you burn with us!” All the protesters I spoke to knew their movement would fail; it was a last assertion of democratic identity before it was extinguished by a new order that saw democracy as the enemy within.
+
+The White House Will Be Shedding Its Union Label
+After gains by organized labor under President Biden, a second Trump administration is likely to change course on regulation and enforcement.
+Joseph R. Biden Jr. promised to be the most pro-labor president in history. He embraced unions more overtly than his predecessors in either party, and filled his administration with union supporters.
+

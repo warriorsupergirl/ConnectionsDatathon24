@@ -3,37 +3,39 @@ import ast
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.cluster import KMeans
-import gensim.downloader as api
+from gensim.models import KeyedVectors
 import time
 import random
 import traceback
 import pickle
+import kagglehub
 
-# Load Gensim Word2Vec model globally to avoid repeated loading
+# Download latest version
+path = kagglehub.dataset_download("leadbest/googlenewsvectorsnegative300")
+
+model_path = path + "/GoogleNews-vectors-negative300.bin"
+
+# Load Pre-trained Gensim Word2Vec model globally to avoid repeated loading
 try:
-    with open('model.dat', 'rb') as f:
-        print('Loading Word2Vec model from file...')
-        gnews = pickle.load(f)
+    print('Loading pre-trained Word2Vec model from file...')
+    gnews = KeyedVectors.load_word2vec_format(model_path, binary=True)
+    print('Model loaded successfully.')
 except FileNotFoundError:
-    print('Downloading Word2Vec model...')
-    gnews = api.load('word2vec-google-news-300')
-    with open('model.dat', 'wb') as f:
-        pickle.dump(gnews, f)
-
-# # Load Gensim Word2Vec model globally to avoid repeated loading
-# try:
-#     with open('custom_word2vec.model', 'rb') as f:
-#         print('Loading custom Word2Vec model from file...')
-#         gnews = Word2Vec.load('custom_word2vec.model')
-# except FileNotFoundError:
-#     print('Custom model not found. Please train it first.')
-
+    print('Model not found. Please ensure the model path is correct.')
+    gnews = None
+except Exception as e:
+    print(f"Error loading model: {e}")
+    gnews = None
 
 def get_word_embeddings(words):
     """Convert words to vector embeddings using Gensim, filtering out OOV words."""
     embeddings = []
     valid_words = []
     
+    if gnews is None:
+        print("Model not loaded. Returning empty embeddings.")
+        return np.array(embeddings), valid_words
+
     for word in words:
         if word in gnews:
             embeddings.append(gnews[word])
@@ -41,12 +43,14 @@ def get_word_embeddings(words):
     
     return np.array(embeddings), valid_words
 
-
 def cluster_words(word_embeddings, filtered_words, previousGuesses):
     """Cluster words using KMeans and filter valid clusters."""
     try:
+        if len(filtered_words) < 4:
+            print("Not enough words for clustering.")
+            return None
         n_clusters = min(4, len(filtered_words) // 2)  # Adjust number of clusters if fewer words are available
-        kmeans = KMeans(n_clusters=n_clusters, random_state=0)
+        kmeans = KMeans(n_clusters=n_clusters, random_state=0, n_init=10)
         cluster_labels = kmeans.fit_predict(word_embeddings)
         print("KMeans clustering successful.")
     except Exception as e:
@@ -63,7 +67,6 @@ def cluster_words(word_embeddings, filtered_words, previousGuesses):
     print("Generated cluster:", cluster_list)
     return cluster_list
 
-
 def similarity_fallback(word_embeddings, filtered_words):
     """Fallback logic using similarity-based selection."""
     print("No valid clusters found, using similarity-based fallback...")
@@ -72,7 +75,6 @@ def similarity_fallback(word_embeddings, filtered_words):
     sorted_indices = np.argsort(avg_similarities)[::-1]
     top_indices = sorted_indices[:4]
     return [filtered_words[i] for i in top_indices]
-
 
 def adjust_for_one_away(correctGroups, filtered_words, guess, previousGuesses):
     """Adjust the guess if the 'One Away' condition is detected."""
@@ -90,18 +92,19 @@ def adjust_for_one_away(correctGroups, filtered_words, guess, previousGuesses):
 
         # Track similarity scores to ensure high cohesiveness
         word_embeddings, _ = get_word_embeddings(new_guess)
-        avg_similarity = cosine_similarity(word_embeddings).mean()
-        while new_guess in previousGuesses or avg_similarity < 0.5:  # Ensure similarity and avoid duplicates
-            random.shuffle(remaining_words)
-            for i in range(len(new_guess)):
-                new_guess[i] = remaining_words.pop() if remaining_words else new_guess[i]
-            word_embeddings, _ = get_word_embeddings(new_guess)
+        if len(word_embeddings) > 0:
             avg_similarity = cosine_similarity(word_embeddings).mean()
+            while new_guess in previousGuesses or avg_similarity < 0.5:  # Ensure similarity and avoid duplicates
+                random.shuffle(remaining_words)
+                for i in range(len(new_guess)):
+                    new_guess[i] = remaining_words.pop() if remaining_words else new_guess[i]
+                word_embeddings, _ = get_word_embeddings(new_guess)
+                if len(word_embeddings) > 0:
+                    avg_similarity = cosine_similarity(word_embeddings).mean()
 
         print("Adjusted guess for one away:", new_guess)
         return new_guess
     return guess
-
 
 def model(words, strikes, isOneAway, correctGroups, previousGuesses, error):
     start_time = time.time()
@@ -122,7 +125,7 @@ def model(words, strikes, isOneAway, correctGroups, previousGuesses, error):
         word_embeddings, filtered_words = get_word_embeddings(words)
         print("Filtered words:", filtered_words)
 
-        if len(filtered_words) < 8:
+        if len(filtered_words) < 4:
             print("Insufficient valid embeddings: Returning default guess.")
             return ["error", "handling", "default", "guess"], True
 
