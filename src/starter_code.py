@@ -9,16 +9,18 @@ import random
 import traceback
 import pickle
 import kagglehub
+from gensim.models import Word2Vec
 
 # Download latest version
 path = kagglehub.dataset_download("leadbest/googlenewsvectorsnegative300")
 
-model_path = path + "/GoogleNews-vectors-negative300.bin"
-
+#model_path = path + "/GoogleNews-vectors-negative300.bin"
+model_path = "./src/custom-model/conceptnet_word2vec.model"
 # Load Pre-trained Gensim Word2Vec model globally to avoid repeated loading
 try:
     print('Loading pre-trained Word2Vec model from file...')
     gnews = KeyedVectors.load_word2vec_format(model_path, binary=True)
+    #gnews = Word2Vec.load(model_path)
     print('Model loaded successfully.')
 except FileNotFoundError:
     print('Model not found. Please ensure the model path is correct.')
