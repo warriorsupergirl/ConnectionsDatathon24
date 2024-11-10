@@ -74,3 +74,59 @@ def visualize_embeddings(model, words_to_visualize=20):
 
 # Visualize the embeddings for the top 20 words
 visualize_embeddings(model)
+
+
+
+
+
+import requests
+
+
+# Function to get related terms from ConceptNet
+def get_related_terms(word, language='en', limit=100):
+    url = f'http://api.conceptnet.io/c/{language}/{word}?offset=0&limit={limit}'
+    response = requests.get(url).json()
+    related_terms = []
+    
+    for edge in response.get('edges', []):
+        start = edge['start']['label']
+        end = edge['end']['label']
+        if start.lower() != word.lower():
+            related_terms.append(start)
+        if end.lower() != word.lower():
+            related_terms.append(end)
+    
+    return related_terms
+
+# Build a training corpus
+def build_corpus(words, language='en'):
+    corpus = []
+    for word in words:
+        related_terms = get_related_terms(word, language)
+        if related_terms:
+            corpus.append(related_terms)
+    return corpus
+
+# List of seed words
+seed_words = ['cat', 'dog', 'car', 'apple']
+
+# Build the corpus
+new_corpus = build_corpus(seed_words)
+
+# Update the model's vocabulary with the new data
+model.build_vocab(new_corpus, update=True)
+
+# Train the model further with the new corpus
+model.train(new_corpus, total_examples=len(new_corpus), epochs=model.epochs)
+
+# Save the model to a file
+model.save('conceptnet_word2vec.model')
+
+# Optional: Test the model
+print(model.wv.most_similar('cat'))
+
+# Save related terms to a text file
+with open('related_terms.txt', 'w') as file:
+    for sentence in new_corpus:
+        file.write(' '.join(sentence) + '\n')
+
